@@ -1,0 +1,15 @@
+C:\Users\melat\Desktop\c#Exerciese\bin\Debug\net6.0\c#Exerciese.exe
+C:\Users\melat\Desktop\c#Exerciese\bin\Debug\net6.0\c#Exerciese.deps.json
+C:\Users\melat\Desktop\c#Exerciese\bin\Debug\net6.0\c#Exerciese.runtimeconfig.json
+C:\Users\melat\Desktop\c#Exerciese\bin\Debug\net6.0\c#Exerciese.dll
+C:\Users\melat\Desktop\c#Exerciese\bin\Debug\net6.0\c#Exerciese.pdb
+C:\Users\melat\Desktop\c#Exerciese\obj\Debug\net6.0\c#Exerciese.csproj.AssemblyReference.cache
+C:\Users\melat\Desktop\c#Exerciese\obj\Debug\net6.0\c#Exerciese.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melat\Desktop\c#Exerciese\obj\Debug\net6.0\c#Exerciese.AssemblyInfoInputs.cache
+C:\Users\melat\Desktop\c#Exerciese\obj\Debug\net6.0\c#Exerciese.AssemblyInfo.cs
+C:\Users\melat\Desktop\c#Exerciese\obj\Debug\net6.0\c#Exerciese.csproj.CoreCompileInputs.cache
+C:\Users\melat\Desktop\c#Exerciese\obj\Debug\net6.0\c#Exerciese.dll
+C:\Users\melat\Desktop\c#Exerciese\obj\Debug\net6.0\refint\c#Exerciese.dll
+C:\Users\melat\Desktop\c#Exerciese\obj\Debug\net6.0\c#Exerciese.pdb
+C:\Users\melat\Desktop\c#Exerciese\obj\Debug\net6.0\c#Exerciese.genruntimeconfig.cache
+C:\Users\melat\Desktop\c#Exerciese\obj\Debug\net6.0\ref\c#Exerciese.dll
